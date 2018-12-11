@@ -1,0 +1,29 @@
+TestCase                                        Kết Quả                                          Messenges
+------------------------------------------------------------------------------------------------------------------------------------------
+
+#1                                                  Pass                                               Đăng nhập thành công
+
+#2                                                  Pass                                               Mật khẩu không được để trống !
+
+#3                                                  Pass                                               Mật khẩu dài tối thiểu 6 kí tự thường.
+
+#4                                                  Pass                                               Mật khẩu tối đa chỉ được 32 kí tự.
+
+#5                                                  Pass                                               Sai thông tin đăng nhập
+×
+
+#6                                                  Pass                                               Sai thông tin đăng nhập
+×
+
+#7                                                  Pass                                               Tên đăng nhập không được để trống !
+
+#8                                                  Pass                                               Tên đăng nhập dài tối thiểu 6 kí tự thường.
+
+#9                                                  Pass                                               Sai thông tin đăng nhập
+×
+
+#10                                                Pass                                               Sai thông tin đăng nhập
+×
+
+#11                                                Pass                                               Sai thông tin đăng nhập
+×
